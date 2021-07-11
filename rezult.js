@@ -107,6 +107,6 @@ function keyboardManipulation(e) {
       closeModal();
       break;
     default:
-      alert("что-то пошло не так");
+      alert("ну ну куди ми зібрались ?");
   }
 }
